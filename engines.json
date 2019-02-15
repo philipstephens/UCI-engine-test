@@ -1,0 +1,26 @@
+{  
+   "tester":[  
+      {  
+         "chess_engines":[  
+            {  
+               "engineName":"Leela",
+               "version":"0.20.2 40622",
+               "path":"E:\\Program Files (x86)\\lc0-v0.20.2 40622\\lc0.exe"
+            },
+            {  
+               "engineName":"Stockfish",
+               "version":"9_x64",
+               "path":"E:\\Program Files\\stockfish-9-win\\Windows\\stockfish_9_x64.exe"
+            }
+         ]
+      }
+   ],
+   "test_files":[  
+      {  
+         "pgn_file":"E:\\Chess PGN\\comptestpos.pgn"
+      },
+      {
+		 "pgn_file":"E:\\Chess PGN\\comptestpos2.pgn"      	
+      }
+   ]
+}
