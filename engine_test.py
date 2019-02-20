@@ -35,7 +35,7 @@ def puzzle_test(allpuzzles, engine, thinking_time):
 	puzzle_sum = 0
 	number_of_puzzles = 0
 
-	print ("thinking_time = " ,thinking_time)
+	print ("thinking_time = {0} seconds".format(thinking_time))
 	for puzzle_batch in allpuzzles:
 		puzzle_pgn = open(puzzle_batch["pgn_file"])
 		print(puzzle_batch["pgn_file"])
@@ -67,6 +67,11 @@ def puzzle_test(allpuzzles, engine, thinking_time):
 			next_move_str = "{0}".format(next_move)
 			engine_move_str = "{0}".format(result.move)
 
+			# promotiom piece ignpred
+			if len(engine_move_str) == 5:
+				if "rnbq".find(engine_move_str[4]):
+					engine_move_str = engine_move_str[0:4] 
+
 			if next_move_str == engine_move_str:
 				puzzle_sum += 1
 
@@ -81,7 +86,7 @@ def puzzle_test(allpuzzles, engine, thinking_time):
 			boardStr = boardStr[pos1:pos2]
 
 			print("FEN: {0}".format(boardStr))
-			print("puzzle move :{0} engine move :{1} Score {2}/{3} = {4}\n".format(next_move, result.move, puzzle_sum, number_of_puzzles, percentage))
+			print("puzzle move :{0} engine move :{1} Score {2}/{3} = {4}\n".format(next_move_str, engine_move_str, puzzle_sum, number_of_puzzles, percentage))
 	
 			#next game		
 			test_game = chess.pgn.read_game(puzzle_pgn)					
@@ -93,7 +98,7 @@ if __name__ == '__main__':
 		thinking_time = int(sys.argv[1])
 		print("thinking_time: {0} seconds".format(thinking_time))
 	else:
-		thinking_time = 10
+		thinking_time = 60
 		print("thinking_time: {0} seconds".format(thinking_time))
 
 	with open('engines.json', 'r') as fp:

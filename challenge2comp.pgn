@@ -1,0 +1,154 @@
+[Event "Computer Challenge Positions 2"]
+[Site "?"]
+[Date "2019.2.19"]
+[Round "1"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+[WhiteELO "?"]
+[BlackELO "?"]
+[SetUp "1"]
+[FEN "2B1k2r/4bp1p/pq1p1p2/1pn1p3/4P3/4N3/PP1N1PPP/1K1R1R2 b - - 0 1"]
+
+1... Ne6
+
+[Event "Computer Challenge Positions 2"]
+[Site "?"]
+[Date "2019.2.19"]
+[Round "2"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+[WhiteELO "?"]
+[BlackELO "?"]
+[SetUp "1"]
+[FEN "1r3rk1/2q5/3p1pp1/n1pPp1n1/ppP1P3/1P4N1/P1BQ1PKR/7R w - - 0 1"]
+
+1. Qxg5
+
+[Event "Computer Challenge Positions 2"]
+[Site "?"]
+[Date "2019.2.19"]
+[Round "3"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+[WhiteELO "?"]
+[BlackELO "?"]
+[SetUp "1"]
+[FEN "rn1qk2r/p1ppbppp/1p2pn2/8/2PP4/P1N2N2/1P2PPPP/R1B1KB1R w KQkq - 0 1"]
+
+1. e4
+
+[Event "Computer Challenge Positions 2"]
+[Site "?"]
+[Date "2019.2.19"]
+[Round "4"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+[WhiteELO "?"]
+[BlackELO "?"]
+[SetUp "1"]
+[FEN "r1bq1rk1/ppp2ppp/2n5/1B2p3/6P1/3PPQ2/PPP3P1/RN3RK1 b - - 0 1"]
+
+1... Nd4
+
+[Event "Computer Challenge Positions 2"]
+[Site "?"]
+[Date "2019.2.19"]
+[Round "5"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+[WhiteELO "?"]
+[BlackELO "?"]
+[SetUp "1"]
+[FEN "2kr1r2/pqp3pp/1pb1p1n1/4p3/8/Q1P1B1P1/PP2BP1P/R3R1K1 b - - 0 1"]
+
+1... Kb8
+
+[Event "Computer Challenge Positions 2"]
+[Site "?"]
+[Date "2019.2.19"]
+[Round "6"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+[WhiteELO "?"]
+[BlackELO "?"]
+[SetUp "1"]
+[FEN "8/8/8/8/p1p5/P1P5/1P6/K1kb4 b - - 0 1"]
+
+1... Bc2
+
+[Event "Computer Challenge Positions 2"]
+[Site "?"]
+[Date "2019.2.19"]
+[Round "7"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+[WhiteELO "?"]
+[BlackELO "?"]
+[SetUp "1"]
+[FEN "r2qr1k1/2p1b2p/p1n1npp1/1p1pP3/8/2P1BN2/PPB2PPP/R2QR1K1 w - - 0 1"]
+
+1. Bb3
+
+[Event "Computer Challenge Positions 2"]
+[Site "?"]
+[Date "2019.2.19"]
+[Round "8"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+[WhiteELO "?"]
+[BlackELO "?"]
+[SetUp "1"]
+[FEN "r2qkb1r/1b1nppp1/p1p2n1p/1p1pN3/3P3B/2PBP3/PP1N1PPP/R2Q1RK1 w kq - 0 1"]
+
+1. Ng6
+
+
+[Event "Computer Challenge Positions 2"]
+[Site "?"]
+[Date "2019.2.19"]
+[Round "9"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+[WhiteELO "?"]
+[BlackELO "?"]
+[SetUp "1"]
+[FEN "8/5bkp/5p2/p1p5/Pp1p1P2/1P1P2P1/2K4P/4N3 b - - 0 1"]
+
+1... Bd5
+
+[Event "Computer Challenge Positions 2"]
+[Site "?"]
+[Date "2019.2.19"]
+[Round "10"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+[WhiteELO "?"]
+[BlackELO "?"]
+[SetUp "1"]
+[FEN "r4rk1/p2nqppp/1p1p1n2/2pP4/P1P1p3/2P1P2P/3BBPP1/R2Q1RK1 b - - 0 1"]
+
+1... a5!
+
+[Event "Computer Challenge Positions 2"]
+[Site "?"]
+[Date "2019.2.19"]
+[Round "11"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+[WhiteELO "?"]
+[BlackELO "?"]
+[SetUp "1"]
+[FEN "r5k1/1pqr1pp1/p1n1b2p/2P1p3/P6Q/2P5/3B1PPP/1BRR2K1 b - - 0 1"]
+
+1... Qd8
