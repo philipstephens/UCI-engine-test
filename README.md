@@ -12,3 +12,16 @@ Before you can use the engine_test.py file some configuration is needed.
 5.  engine_test takes 1 parameter which is the time in seconds an engine is given to think.
     python engine_test.py 2
     gives each engine 2 seconds to think before submitting a move.
+
+Update to UCI-engine-test
+
+1. Added misses.txt to help create puzzles that given engines were unable to solve.
+2. Added ability to test alternative puzzle solutions by appending letters to the
+   end of the "Round" headings of pgn files.  
+   
+   [Round "12a"]
+   [Round "12b"]
+   
+   or [Round "12aa"]
+      [Round "12ab"]
+
