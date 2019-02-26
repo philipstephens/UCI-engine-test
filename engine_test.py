@@ -36,13 +36,21 @@ def puzzle_test(allpuzzles, engine, thinking_time):
 	number_of_puzzles = 0
 
 	print ("thinking_time = {0} seconds".format(thinking_time))
+	file=open("misses.pgn", "w")
+	
 	for puzzle_batch in allpuzzles:
 		puzzle_pgn = open(puzzle_batch["pgn_file"])
 		print(puzzle_batch["pgn_file"])
 		test_game = chess.pgn.read_game(puzzle_pgn)
 
 		while test_game != None:
-			number_of_puzzles += 1
+			round_str = test_game.headers["Round"]
+			
+			if (round_str[-1] >= "0") and (round_str[-1] <= "9"):
+				number_of_puzzles += 1
+			elif round_str[-1] == "a":
+				number_of_puzzles += 1
+
 			board = test_game.board()
 			
 			# get pgn move
@@ -74,6 +82,8 @@ def puzzle_test(allpuzzles, engine, thinking_time):
 
 			if next_move_str == engine_move_str:
 				puzzle_sum += 1
+			else:
+				print(test_game, file=open("misses.pgn", "a"), end ="\n\n")
 
 			percentage = "{:.2%}".format(puzzle_sum / number_of_puzzles)
 
