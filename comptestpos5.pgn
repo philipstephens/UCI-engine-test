@@ -1,0 +1,280 @@
+[Event "Computer Test Positions 5"]
+[Site "?"]
+[Date "2019.2.23"]
+[Round "74"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+[WhiteELO "?"]
+[BlackELO "?"]
+[SetUp "1"]
+[FEN "1rb2r1k/1p5p/p4bp1/3B1p2/1P6/3PP1P1/P3Nq1P/1R1Q1N1K w - - 0 1"]
+
+1. Nf4
+
+[Event "Computer Test Positions 5"]
+[Site "?"]
+[Date "2019.2.23"]
+[Round "75"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+[WhiteELO "?"]
+[BlackELO "?"]
+[SetUp "1"]
+[FEN "3r2k1/p2r2b1/1p2p3/2p2ppp/2P5/PnN1PPP1/1PR1KP2/2NR4 b - - 0 1"]
+
+1... Na1
+
+[Event "Computer Test Positions 5"]
+[Site "?"]
+[Date "2019.2.23"]
+[Round "76"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+[WhiteELO "?"]
+[BlackELO "?"]
+[SetUp "1"]
+[FEN "r1br2k1/bp4p1/p3p3/4Ppp1/3N4/2P5/PPB3PP/3R1R1K w - - 0 1"]
+
+1. Nxf5
+
+[Event "Computer Test Positions 5"]
+[Site "?"]
+[Date "2019.2.23"]
+[Round "77"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+[WhiteELO "?"]
+[BlackELO "?"]
+[SetUp "1"]
+[FEN "4rrk1/3b2p1/3bp3/pq1n2PQ/1p1pBP2/3P3N/PP1B3K/R4R2 b - - 0 1"]
+
+1... Nf6 
+
+[Event "Computer Test Positions 5"]
+[Site "?"]
+[Date "2019.2.23"]
+[Round "78"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+[WhiteELO "?"]
+[BlackELO "?"]
+[SetUp "1"]
+[FEN "1r6/3P1pkp/4p1p1/4P3/5P2/8/1qpQ2PP/2R4K b - - 0 1"]
+
+1... Qxc1+
+
+[Event "Computer Test Positions 5"]
+[Site "?"]
+[Date "2019.2.23"]
+[Round "79"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+[WhiteELO "?"]
+[BlackELO "?"]
+[SetUp "1"]
+[FEN "rnbqk2r/ppp2ppp/5n2/3Pp3/1b2P3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 1"]
+
+1. Qa4+
+
+[Event "Computer Test Positions 5"]
+[Site "?"]
+[Date "2019.2.23"]
+[Round "80"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+[WhiteELO "?"]
+[BlackELO "?"]
+[SetUp "1"]
+[FEN "1r1r2k1/pb1n1pp1/1q5p/2pp4/8/1PQ1PN2/P1R1BPPP/3R2K1 w - - 0 1"]
+
+1. Ne1
+
+[Event "Computer Test Positions 5"]
+[Site "?"]
+[Date "2019.2.23"]
+[Round "81"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+[WhiteELO "?"]
+[BlackELO "?"]
+[SetUp "1"]
+[FEN "1br2rk1/pq3pp1/1pn1pn1p/8/1P1P4/P1NQ1N2/1B3PPP/2RR2K1 w - - 0 1"]
+
+1. d5 
+
+[Event "Computer Test Positions 5"]
+[Site "?"]
+[Date "2019.2.23"]
+[Round "82"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+[WhiteELO "?"]
+[BlackELO "?"]
+[SetUp "1"]
+[FEN "8/p1p5/1pP5/PP6/8/6p1/5kP1/7K b - - 0 1"]
+
+1... Ke3
+
+[Event "Computer Test Positions 5"]
+[Site "?"]
+[Date "2019.2.23"]
+[Round "83"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+[WhiteELO "?"]
+[BlackELO "?"]
+[SetUp "1"]
+[FEN "r1bq1rk1/pp2p2p/6p1/3pPp2/7N/2PB3P/PP1Q1PP1/R4RK1 b - - 0 1"]
+
+1... f4
+
+[Event "Computer Test Positions 5"]
+[Site "?"]
+[Date "2019.2.23"]
+[Round "84"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+[WhiteELO "?"]
+[BlackELO "?"]
+[SetUp "1"]
+[FEN "8/7p/1R6/4Np1k/5P2/n5P1/3p2KP/3r4 w - - 0 1"]
+
+1. Nf7
+
+[Event "Computer Test Positions 5"]
+[Site "?"]
+[Date "2019.2.23"]
+[Round "85"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+[WhiteELO "?"]
+[BlackELO "?"]
+[SetUp "1"]
+[FEN "r1b1r1k1/pp3pbp/n1p2np1/4p3/2P1P3/2N1BN2/PP2BPPP/1K1R3R b - - 0 1"]
+
+1... Ng4
+
+[Event "Computer Test Positions 5"]
+[Site "?"]
+[Date "2019.2.23"]
+[Round "86"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+[WhiteELO "?"]
+[BlackELO "?"]
+[SetUp "1"]
+[FEN "1rbqk2r/p3bppp/2n1p3/3pPn2/R1pP1P2/1PP2N2/3NB1PP/2BQ1RK1 b k - 0 1"]
+
+1... Ne3
+
+[Event "Computer Test Positions 5"]
+[Site "?"]
+[Date "2019.2.23"]
+[Round "87"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+[WhiteELO "?"]
+[BlackELO "?"]
+[SetUp "1"]
+[FEN "r4rk1/pbpq1ppp/1pnbpn2/3p4/QP1P4/P2BPN2/3N1PPP/R1B2RK1 b - - 0 1"]
+
+1... Nxd4
+
+[Event "Computer Test Positions 5"]
+[Site "?"]
+[Date "2019.2.23"]
+[Round "88"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+[WhiteELO "?"]
+[BlackELO "?"]
+[SetUp "1"]
+[FEN "r3k2r/ppq1n1pp/2nbbp2/2p5/2PpPP1N/3P4/PP1N2BP/R1BQ1RK1 w kq - 0 1"]
+
+1. e5
+
+[Event "Computer Test Positions 5"]
+[Site "?"]
+[Date "2019.2.23"]
+[Round "89"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+[WhiteELO "?"]
+[BlackELO "?"]
+[SetUp "1"]
+[FEN "8/8/p1pr1p2/2k2p1p/2P2P1P/2KRPP2/P7/8 b - - 0 1"]
+
+1... Re6
+
+[Event "Computer Test Positions 5"]
+[Site "?"]
+[Date "2019.2.23"]
+[Round "90"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+[WhiteELO "?"]
+[BlackELO "?"]
+[SetUp "1"]
+[FEN "rnb1kb1r/p4ppp/1pp1pq2/8/3P4/3B1N2/PPP2PPP/R1BQK2R w KQkq - 0 1"]
+
+1. Bg5
+
+[Event "Computer Test Positions 5"]
+[Site "?"]
+[Date "2019.2.23"]
+[Round "91"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+[WhiteELO "?"]
+[BlackELO "?"]
+[SetUp "1"]
+[FEN "6k1/p4pp1/8/8/8/4q1PQ/P1r4P/5R1K b - - 0 1"]
+
+1... Qe4+ 
+
+[Event "Computer Test Positions 5"]
+[Site "?"]
+[Date "2019.2.23"]
+[Round "92"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+[WhiteELO "?"]
+[BlackELO "?"]
+[SetUp "1"]
+[FEN "1k5r/1b1r1p2/p2p1b2/1ppP1N1p/4PPp1/2P5/PP5P/2K1RRN1 b - - 0 1"]
+
+1... Rdd8
+
+[Event "Computer Test Positions 5"]
+[Site "?"]
+[Date "2019.2.23"]
+[Round "93"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+[WhiteELO "?"]
+[BlackELO "?"]
+[SetUp "1"]
+[FEN "r2qk1nr/pp3pbp/3pp1p1/8/3nPP2/2NBBP2/PPP4P/R2QK2R w KQkq - 0 1"]
+
+1. Bxd4
+
